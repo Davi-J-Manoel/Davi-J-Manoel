@@ -50,6 +50,9 @@
   <a href="https://api.whatsapp.com/send?phone=5516996220764" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
+<br/>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Davi-J-Manoel}/count.svg" /></p>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
