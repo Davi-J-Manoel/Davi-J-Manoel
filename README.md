@@ -54,3 +54,7 @@
 ##
 
 
+### Profile visitor counter
+<div style="display: inline_block">
+<p style="display: inline_block"><img src="https://profile-counter.glitch.me/{Davi-J-Manoel}/count.svg" /></p>
+</div>
